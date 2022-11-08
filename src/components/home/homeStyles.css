@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  height: 100vh;
+  background: linear-gradient(to right, white, teal);
+}
+
+.main-container {
+  text-align: center;
+}
+
+.camera-section {
+  margin: auto;
+  width: 50%;
+  background: #fff;
+  padding: 10px;
+}
+
+.button {
+  color: #0e6e02;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid #0e6e02;
+  background-color: #f5f7f9;
+}
